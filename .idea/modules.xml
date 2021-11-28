@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-reactive-master.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-reactive-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jh/jh.iml" filepath="$PROJECT_DIR$/jh/jh.iml" />
     </modules>
   </component>
 </project>
